@@ -16,3 +16,10 @@ Tetris Like Game: Python and Pygame
 <br>
 <a href="https://github.com/groeneveldwoodstock/GroeneveldShapes/raw/main/GroeneveldShapesSetup.exe" target="_blank" rel="noopener noreferrer">Download Windows Installer</a>
   </body>
+<h3>
+Groeneveld Shapes 2: With New Shapes and Sounds!
+</h3>
+<a href="https://drive.google.com/file/d/1WibpVXTWjb2BUUKq05K7WGRSmMQuKwbQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Mac App</a>
+<br>
+<a href="https://drive.google.com/file/d/1w3bgsrktQLf54kv3M_AYO4zDDINhSvgf/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Windows Installer</a>
+  </body>
