@@ -12,16 +12,13 @@ Tetris Like Game: Python and Pygame
     <li>There is a bug that shows an error when you close the Mac App. It does not effect anything.</li>
   </ul>
 </ul>
-<a href="https://drive.google.com/file/d/18InUbAUBhpB2gSHxJXCPS6D4iBQDsSK3/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Mac App</a>
-<br>
-<a href="https://github.com/groeneveldwoodstock/GroeneveldShapes/raw/main/GroeneveldShapesSetup.exe" target="_blank" rel="noopener noreferrer">Download Windows Installer</a>
-  </body>
+<h4><a href="https://drive.google.com/file/d/18InUbAUBhpB2gSHxJXCPS6D4iBQDsSK3/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Mac App</a></h4>
+<h4><a href="https://github.com/groeneveldwoodstock/GroeneveldShapes/raw/main/GroeneveldShapesSetup.exe" target="_blank" rel="noopener noreferrer">Download Windows Installer</a></h4>
 <h3>
 Groeneveld Shapes 2: With New Shapes and Sounds!
 </h3>
-<a href="https://drive.google.com/file/d/1WibpVXTWjb2BUUKq05K7WGRSmMQuKwbQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Mac App</a>
-<br>
-<a href="https://drive.google.com/file/d/1w3bgsrktQLf54kv3M_AYO4zDDINhSvgf/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Windows Installer</a>
+<h4><a href="https://drive.google.com/file/d/1WibpVXTWjb2BUUKq05K7WGRSmMQuKwbQ/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Mac App</a></h4>
+<h4><a href="https://drive.google.com/file/d/1w3bgsrktQLf54kv3M_AYO4zDDINhSvgf/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Windows Installer</a></h4>
 <br>
 <img src="https://github.com/groeneveldwoodstock/GroeneveldShapes/blob/main/Screenshot.png" alt="Screen Shot">
   </body>
