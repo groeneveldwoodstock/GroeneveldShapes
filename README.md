@@ -23,5 +23,5 @@ Groeneveld Shapes 2: With New Shapes and Sounds!
 <br>
 <a href="https://drive.google.com/file/d/1w3bgsrktQLf54kv3M_AYO4zDDINhSvgf/view?usp=sharing" target="_blank" rel="noopener noreferrer">Download Windows Installer</a>
 <br>
-<img src="https://github.com/groeneveldwoodstock/Worldly-Wordle-Practice/blob/main/ScreenShot.png" alt="Screen Shot">
+<img src="https://github.com/groeneveldwoodstock/GroeneveldShapes/blob/main/Screenshot.png" alt="Screen Shot">
   </body>
